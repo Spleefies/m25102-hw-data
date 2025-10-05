@@ -12,7 +12,7 @@
                     "type": "homework",
                     "content": "Vote for seating plan - https://t.ly/rnSvY",
                     "dueDate": null,
-                    "optional": false
+                    "optional": true
                 }
             ]
         },

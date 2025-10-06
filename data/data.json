@@ -23,7 +23,7 @@
                 {
                     "type": "info",
                     "content": "EOY",
-                    "dueDate": "2025-10-21T08:00:00"
+                    "dueDate": "2025-10-22T08:00:00"
                 }
             ]
         },
@@ -35,7 +35,7 @@
                 {
                     "type": "info",
                     "content": "EOY",
-                    "dueDate":"2025-10-22T08:00:00"
+                    "dueDate":"2025-10-23T08:00:00"
                 },
                 {
                     "type": "homework",

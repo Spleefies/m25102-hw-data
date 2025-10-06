@@ -22,7 +22,8 @@
                 },
                 {
                     "type": "info",
-                    "content": "EOY: 21 Oct"
+                    "content": "EOY",
+                    "dueDate": "2025-10-21T08:00:00"
                 }
             ]
         },
@@ -33,7 +34,8 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "EOY: 22 Oct"
+                    "content": "EOY",
+                    "dueDate":"2025-10-22T08:00:00"
                 },
                 {
                     "type": "homework",
@@ -50,7 +52,8 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "EOY: 23 Oct"
+                    "content": "EOY",
+                    "dueDate":"2025-10-24T08:00:00"
                 }
             ]
         },
@@ -61,7 +64,8 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "EOY: 10 Oct"
+                    "content": "EOY",
+                    "dueDate":"2025-10-10T14:30:00"
                 }
             ]
         },
@@ -80,7 +84,7 @@
                 {
                     "type": "homework",
                     "content": "Assignment 3 VR & Artwork",
-                    "dueDate": "2025-07-29T10:30:00"
+                    "dueDate": "2025-10-07T10:30:00"
                 }
             ]
         },
@@ -94,6 +98,11 @@
                     "content": "Self-mark Topic 6 concept map",
                     "dueDate": null,
                     "optional": false
+                },
+                {
+                    "type":"info",
+                    "content":"EOY",
+                    "dueDate":"2025-10-17T08:00:00"
                 }
             ]
         },
@@ -113,6 +122,11 @@
                     "content": "习字",
                     "dueDate": null,
                     "optional": false
+                },
+                {
+                    "type":"info",
+                    "content":"EOY",
+                    "dueDate":"2025-10-13T14:00:00"
                 }
             ]
         },  

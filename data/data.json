@@ -1,37 +1,13 @@
 {
     "class": "M25102",
     "lastUpdate": "2025-07-03T15:10:00",
-    "url": "https://gohjy.github.io/m25102-hw-data/data/data.json",
+    "url": "https://spleefies.github.io/m25102-hw-data/data/data.json",
     "homeworkData": [
         {
             "subject": "Mentoring/CCE",
             "courseCode": "CE1100",
             "classID": "M25102",
-            "items": [
-                {
-                    "type": "homework",
-                    "content": "Vote for seating plan - https://t.ly/rnSvY",
-                    "dueDate": null,
-                    "optional": true
-                }
-            ]
-        },
-        {
-            "subject": "CS 1",
-            "courseCode": "CS1131",
-            "classID": "M25102",
-            "items": [
-                {
-                    "type": "info",
-                    "content": "GT 1 - 4 Aug 2025 - https://v.gd/ayvNdp"
-                },
-                {
-                    "type": "homework",
-                    "content": "Coursemology Lab 5.1 - https://v.gd/UiOgPp \nCoursemology Lab 6 - https://v.gd/Tg1GEp",
-                    "dueDate": null,
-                    "optional": false
-                }
-            ]
+            "items": []
         },
         {
             "subject": "Chem 1",
@@ -40,25 +16,13 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Read notes for Topic 8 (pg 25-29) and Appendix 2",
+                    "content": "Revision Package",
                     "dueDate": null,
                     "optional": false
                 },
                 {
-                    "type": "homework",
-                    "content": "Worksheets 8.1-8.5, 9.3-9.5",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "[HBL 25/7] SLS Lesson: Covalent Bonds"
-                },
-                {
-                    "type": "homework",
-                    "content": "Worksheet 9 (except 9.2) - https://t.ly/0qudz",
-                    "dueDate": null,
-                    "optional": false
+                    "type": "info",
+                    "content": "EOY: 21 Oct"
                 }
             ]
         },
@@ -69,18 +33,12 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "In-class Assignment on Reflection of Light: Tue 29 Jul - https://v.gd/kjdHsl"
+                    "content": "EOY: 22 Oct"
                 },
                 {
                     "type": "homework",
-                    "content": "Complete Teams quiz on Reflection of Light: https://v.gd/oyU42F",
-                    "dueDate": "2025-07-28T21:00:00",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Reflection of Light Worksheet",
-                    "dueDate": "2025-07-29T12:30:00",
+                    "content": "Revision Package",
+                    "dueDate": null,
                     "optional": false
                 }
             ]
@@ -92,7 +50,7 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "GT 4 - 30 Jul 2025 \n Teams post: https://t.ly/86cki"
+                    "content": "EOY: 23 Oct"
                 }
             ]
         },
@@ -103,19 +61,7 @@
             "items": [
                 {
                     "type": "info",
-                    "content": "PBQ Summative: 30 Jul 2025"
-                },
-                {
-                    "type": "homework",
-                    "content": "IPA Poem Milestone Check - https://v.gd/o7hi3Y",
-                    "dueDate": "2025-07-25T20:00:00",
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "IPA Final Poem - https://v.gd/cYQhZS",
-                    "dueDate": "2025-08-22T20:00:00",
-                    "optional": false
+                    "content": "EOY: 10 Oct"
                 }
             ]
         },
@@ -133,7 +79,7 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Visual Research templates for Lines, Shapes and Sounds",
+                    "content": "Assignment 3 VR & Artwork",
                     "dueDate": "2025-07-29T10:30:00"
                 }
             ]
@@ -145,20 +91,8 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Complete and mark Review WS 4 (Topic 3: Cells)",
+                    "content": "Self-mark Topic 6 concept map",
                     "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Check answers for Topic 3: Cell structure & organisation notes",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "Group presentation on Mutualism",
-                    "dueDate": "2025-09-06T18:00:00",
                     "optional": false
                 }
             ]
@@ -170,14 +104,14 @@
             "items": [
                 {
                     "type": "homework",
-                    "content": "Workbook B Pg 1-7",
+                    "content": "Workbook B",
                     "dueDate": null,
                     "optional": false
                 },
                 {
                     "type": "homework",
                     "content": "习字",
-                    "dueDate": "2025-07-29T08:00:00",
+                    "dueDate": null,
                     "optional": false
                 }
             ]
@@ -186,31 +120,13 @@
             "subject": "Hum 1",
             "courseCode": "HU1131",
             "classID": "M25102",
-            "items": [
-                {
-                    "type": "homework",
-                    "content": "Copy answers to Reliability Notes: https://v.gd/gECQaP",
-                    "dueDate": null,
-                    "optional": false
-                },
-                {
-                    "type": "homework",
-                    "content": "[HBL 25/7] Complete mock test paper on BTO scheme",
-                    "dueDate": null,
-                    "optional": false
-                }
-            ]
+            "items": []
         },
         {
             "subject": "PE",
             "courseCode": "PE1131",
             "classID": "M25102",
-            "items": [
-                {
-                    "type": "info",
-                    "content": "Bring mug, spoon and beverage for outdoor cooking lesson on 29 Jul"
-                }
-            ]
+            "items": []
         }
     ]
 }
